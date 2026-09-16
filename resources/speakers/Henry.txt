@@ -1,0 +1,1 @@
+Henry Krumb is a first year postdoctoral researcher at Technische Universitat Darmstadt, where he investigates AI methods in medical image processing and computer-assisted surgery. A particular focus of his work is on integrating Neural Cellular Automata (NCA) into surgical pipelines.

@@ -1,0 +1,1 @@
+Jonas Mehtali is a PhD student at the University of Strasbourg supervised by Caroline Essert. His research focuses on computer-assisted thermal ablation planning, and he developed C-NCA, an NCA-based method for fast simulation, presented at MICCAI 2025.

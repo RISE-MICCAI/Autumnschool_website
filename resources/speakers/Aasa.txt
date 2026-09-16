@@ -1,0 +1,1 @@
+Aasa specializes in AI errors and debugging, aka responsible AI, in medical imaging. Her recent work includes development, deployment and stress-testing of fetal ultrasound risk prediction models for e.g. fetal growth or preterm birth.
