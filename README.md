@@ -29,13 +29,6 @@ resources/speakers/     Speaker headshots (<Firstname>.jpg) and bios (<Firstname
 - **Registration links, FAQ, organisers**: edit the matching section in
   `index.html`.
 
-## Open items
-
-- Add the application / registration form link (see the `TODO` in the
-  `#registration` section of `index.html`).
-- Add Yipei Wang's photo (`resources/speakers/Yipei.jpg`) and bio
-  (`resources/speakers/Yipei.txt`, plus the speaker card and tooltip).
-
 ## Local preview
 
 Because the schedule is fetched with `fetch()`, open the site through a local
