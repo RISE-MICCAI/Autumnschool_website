@@ -1235,6 +1235,53 @@ footer .social-links a:hover {
   border-radius: var(--border-radius);
 }
 
+.schedule-notice {
+  margin-bottom: 2rem;
+  padding: 1.25rem 1.5rem;
+  background-color: #fff8e1;
+  border-left: 4px solid #e6a100;
+  border-radius: var(--border-radius);
+  box-shadow: var(--box-shadow);
+}
+
+.schedule-notice h2 {
+  font-size: 1.15rem;
+  color: #8a5a00;
+  margin-bottom: 0.5rem;
+}
+
+.schedule-notice p {
+  margin-bottom: 0.5rem;
+}
+
+.schedule-notice p:last-child {
+  margin-bottom: 0;
+}
+
+.schedule-item.cancelled {
+  background-color: #f7f7f7;
+}
+
+.cancelled-title {
+  text-decoration: line-through;
+  color: var(--dark-gray);
+}
+
+.cancelled-label {
+  display: inline-block;
+  margin-left: 0.4rem;
+  padding: 0.1rem 0.5rem;
+  font-size: 0.72rem;
+  font-weight: 700;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  text-decoration: none;
+  color: #8a1c1c;
+  background-color: #fde8e8;
+  border-radius: 999px;
+  vertical-align: middle;
+}
+
 /* Speakers Section */
 .speakers-content {
   display: grid;
