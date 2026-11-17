@@ -1,7 +1,7 @@
 # RISE-MICCAI Autumn School 2026 Website
 
 Source for the **RISE-MICCAI Autumn School 2026** website
-(11–13 November 2026, virtual on Zoom, 13:00–17:00 UTC each day).
+(held 11–13 November 2026, virtual on Zoom).
 
 The site is a static HTML/CSS/JS page derived from the
 [Summer School 2025 template](https://github.com/RISE-MICCAI/Summerschool_website_template)
@@ -10,7 +10,7 @@ and is served with GitHub Pages from the `main` branch.
 ## Structure
 
 ```
-index.html              Home page: registration, schedule, speakers, FAQ, code of conduct, organisers
+index.html              Home page: schedule, speakers, FAQ, code of conduct, organisers
 pages/program.html      Schedule partial, loaded into #program by js/import.js
 css/main.css            Styles
 js/                     Navigation, speaker tooltips, program loader
@@ -26,7 +26,7 @@ resources/speakers/     Speaker headshots (<Firstname>.jpg) and bios (<Firstname
 - **Speakers**: edit the `#speakers` section in `index.html` and drop the
   headshot into `resources/speakers/`. Keep images at roughly 600 px on the
   long edge.
-- **Registration links, FAQ, organisers**: edit the matching section in
+- **FAQ, organisers**: edit the matching section in
   `index.html`.
 
 ## Local preview
